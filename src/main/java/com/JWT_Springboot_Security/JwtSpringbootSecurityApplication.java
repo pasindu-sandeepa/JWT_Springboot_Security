@@ -1,4 +1,4 @@
-package com.JWT_Springboot_Security.JWT_Springboot_Security;
+package com.JWT_Springboot_Security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
